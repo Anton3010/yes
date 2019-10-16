@@ -1,0 +1,19 @@
+.logo {
+  float: right;
+}
+
+.column {
+  float: left;
+  color: red;
+  padding-top: 100px;
+}
+
+.floats {
+  border: 2px solid red;
+  width: 300px;
+  float: left;
+  color: green;
+  font-style: italic;
+  margin-right: 10px;
+  margin-top: 100px;
+}
